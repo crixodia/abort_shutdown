@@ -1,0 +1,1 @@
+go build -ldflags="-H=windowsgui" -o abort_shutdown.exe abort_shutdown.go
